@@ -1,3 +1,5 @@
-class aa:
-    def __init__(self):
-        
+class aadddddddd:
+    def ____(seldddddf):ddddddd
+        dddd
+        dd
+        ddddd 
